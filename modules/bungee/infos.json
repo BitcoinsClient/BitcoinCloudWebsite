@@ -3,5 +3,6 @@
   "authors":"BitcoinsClient",
   "fileName":"BitcoinCloudBungee.jar",
   "version":"1.0.0",
-  "type":"proxy"
+  "type":"proxy",
+  "required":true
 }
