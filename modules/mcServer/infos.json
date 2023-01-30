@@ -1,0 +1,9 @@
+{
+  "name":"BitcoinCloudSpigot",
+  "authors":"BitcoinsClient",
+  "fileName":"BitcoinCloudSpigot.jar",
+  "description":"Ist für das managen des Paper/Purpur für die BitcoinCloud!",
+  "version":"1.0.0",
+  "type":"gl",
+  "required":true
+}
