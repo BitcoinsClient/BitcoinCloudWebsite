@@ -3,7 +3,7 @@
   "authors":"BitcoinsClient",
   "fileName":"BitcoinCloudBungee.jar",
   "description":"Ist für das managen des Proxys für die BitcoinCloud!",
-  "version":"1.0.0",
+  "version":"1.0.1",
   "type":"proxy",
   "required":true
 }
