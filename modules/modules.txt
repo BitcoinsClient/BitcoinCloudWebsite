@@ -1,1 +1,1 @@
-bungee,mcServer,
+bungee,mcServer,cloudcmd,
